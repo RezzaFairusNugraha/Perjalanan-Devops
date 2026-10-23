@@ -88,9 +88,10 @@ Repo ini tidak berisi password, API key, token, private key, atau data perusahaa
 
 ## 📬 Kontak
 
-- GitHub: [@USERNAME-KAMU](https://github.com/USERNAME-KAMU)
-- LinkedIn: _tambahkan link-mu di sini_
-- Email: _tambahkan email-mu di sini_
+- GitHub: [@rezzafairusnugraha](https://github.com/RezzaFairusNugraha)
+- LinkedIn: [rezzafairusnugraha](https://www.linkedin.com/in/rezza-fairus-nugraha/)
+- Email: rezzafairusnugraha@gmail.com
+- Tiktok: [@WhiteExploit](https://www.tiktok.com/@rezzafairusnugraha)
 
 ---
 
